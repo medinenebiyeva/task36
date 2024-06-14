@@ -1,0 +1,1 @@
+console.log(((Math.random() * 5) + 95).toFixed(0))
